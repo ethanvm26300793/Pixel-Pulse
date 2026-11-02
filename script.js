@@ -136,3 +136,5 @@ function render(items) {
         results.appendChild(card);
     });
 }
+
+//<--------------------------------------COMPLETED JS CODE---------------------------------------->//

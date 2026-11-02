@@ -1,0 +1,1 @@
+This is a small website where you can search for anything and recieve 20 images as response. It was created as a project and as an assignment in my course.
